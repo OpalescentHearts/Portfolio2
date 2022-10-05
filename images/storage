@@ -1,0 +1,30 @@
+.rope{
+    height: 50%;
+    width: 300%;
+    top: 900px;
+    left: 50px;
+    position: absolute;
+}
+.rope2{
+    height: 30%;
+    width: 80%;
+    top: 1265px;
+    left: 50px;
+    position: absolute;
+}
+.rope{
+    height: 30%;
+    width: 80%;
+    top: 760px;
+    left: -180px;
+    position: absolute;
+}
+.rope2{
+    height: 30%;
+    width: 80%;
+    top: 1265px;
+    left: -475px;
+    position: absolute;
+}
+<img class="rope" src="flowers/vine thread top.png">
+<img class="rope2" src="flowers/vine thread bottom.png">
