@@ -621,21 +621,21 @@ body{
 }
 
 /*seans computer*/
-@media only screen and (max-width: 1024px) {
+@media only screen and (max-width: 1920px) {
     .Name1{
-        top: -17%;
+        top: -12%;
+        left: 1%;
+        position: absolute;
+        font-size: 11rem;
+    }
+    .Name2{
+        top: 15%;
         left: 1%;
         position: absolute;
         font-size: 9rem;
     }
-    .Name2{
-        top: 14%;
-        left: 1%;
-        position: absolute;
-        font-size: 7rem;
-    }
     .Name3{
-        top: 50%;
+        top: 52%;
         left: 2%;
         position: absolute;
         font-size: 4rem;
@@ -647,8 +647,8 @@ body{
         font-size:1.2rem;
     }
     .Abouttitle{
-        top: 121%;
-        left: 39%;
+        top: 135%;
+        left: 27%;
         position: absolute;
         font-size:50px;
     }
