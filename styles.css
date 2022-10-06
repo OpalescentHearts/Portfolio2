@@ -57,15 +57,15 @@ body{
 .flower5{
     height: 25%;
     width: 30%;
-    top: 5em;
-    left: 68.5em;
+    top: 12%;
+    left: 78%;
     position: absolute;
 }
 .flower2{
     height: 25%;
     width: 30%;
-    top: 29em;
-    left: 43em;
+    top: 66%;
+    left: 49%;
     position: absolute;
 }
 /*border*/
@@ -158,28 +158,42 @@ body{
     height: 55%;
     width: 51%;
     background-color: aliceblue;
-    top: 55em;
-    left: 21em;
+    top: 124%;
+    left: 24%;
     position: absolute;
     border-radius: 10%;
 }
 .Abouttitle{
-    top: 17.3em;
-    left:11.6em;
+    top: 121%;
+    left: 41%;
     position: absolute;
     font-size:50px;
 }
 .AboutF{
-    top: 29.5em;
-    left:11em;
+    top: 132%;
+    left: 25%;
     position: absolute;
     font-size:2em;
+}
+.flower1{
+    height: 20%;
+    width: 30%;
+    top: 122%;
+    left: 60%;
+    position: absolute;
+}
+.flower6{
+    height: 20%;
+    width: 30%;
+    top: 167%;
+    left: 9%;
+    position: absolute;
 }
 
 /*Skills*/
 .Skillstitle{
-    top: 28.7em;
-    left:12.7em;
+    top: 198%;
+    left: 46%;
     position: absolute;
     font-size:50px;
 }
@@ -187,144 +201,134 @@ body{
     height: 72%;
     width: 64%;
     background-color: aliceblue;
-    top: 90em;
-    left: 15em;
+    top: 202%;
+    left: 18%;
     position: absolute;
     border-radius: 10%;
 }
 .python{
     height: 29%;
     width: 24%;
-    top: 95em;
-    left: 13em;
+    top: 214%;
+    left: 15.2%;
     position: absolute;
 }
 .pythonF{
-    top: 52em;
-    left: 10.3em;
+    top: 235%;
+    left: 24%;
     position: absolute;
     font-size: xx-large;
 }
 .C{
     height: 29%;
     width: 24%;
-    top: 95.4em;
-    left: 26em;
+    top: 215%;
+    left: 30%;
     position: absolute;
 }
 .CF{
-    top: 52em;
-    left: 17.2em;
+    top: 235%;
+    left: 39.6%;
     position: absolute;
     font-size: xx-large;
 }
 .H{
     height: 29%;
     width: 25%;
-    top: 95.4em;
-    left: 39em;
+    top: 215%;
+    left: 46%;
     position: absolute;
 }
 .HF{
-    top: 52em;
-    left: 23.5em;
+    top: 235%;
+    left: 55%;
     position: absolute;
     font-size: xx-large;
 }
 .JS{
     height: 29%;
     width: 25%;
-    top: 95.4em;
-    left: 52em;
+    top: 215%;
+    left: 60%;
     position: absolute;
 }
 .JSF{
-    top: 52em;
-    left: 29.4em;
+    top: 235%;
+    left: 67.7%;
     position: absolute;
     font-size: xx-large;
 }
 .django{
     height: 30%;
     width: 15%;
-    top: 106em;
-    left: 17em;
+    top: 239%;
+    left: 20%;
     position: absolute;
 }
 .djangoF{
-    top: 57em;
-    left: 10.2em;
+    top: 256%;
+    left: 24%;
     position: absolute;
     font-size: xx-large;
 }
 .spring{
     height: 22%;
     width: 25%;
-    top: 108em;
-    left: 25.5em;
+    top: 243%;
+    left: 29%;
     position: absolute;
 }
 .springF{
-    top: 57em;
-    left: 16.8em;
+    top: 256%;
+    left: 38.4%;
     position: absolute;
     font-size: xx-large;
 }
 .java{
     height: 23%;
     width: 20%;
-    top: 106.8em;
-    left: 40.5em;
+    top: 240%;
+    left: 48%;
     position: absolute;
 }
 .javaF{
-    top: 57em;
-    left: 23.7em;
+    top: 256%;
+    left: 56%;
     position: absolute;
     font-size: xx-large;
 }
 .sql{
     height: 18%;
     width: 20%;
-    top: 109em;
-    left: 55.5em;
+    top: 246%;
+    left: 64%;
     position: absolute;
 }
 .sqlF{
-    top: 57em;
-    left: 30.5em;
+    top: 256%;
+    left: 70.3%;
     position: absolute;
     font-size: xx-large;
 }
-/*Projects*/
-.Projects{
-    height: 80%;
-    width: 100%;
-    background-color: white;
-    top: 2200px;
-    left:0px;
-    position: absolute;
-}
-
 .flower7{
     height: 22%;
     width: 30%;
-    top: 88em;
-    left: 58em;
+    top: 200%;
+    left: 67%;
     position: absolute;
 }
 .flower8{
     height: 22%;
     width: 30%;
-    top: 88em;
-    left: 2em;
+    top: 200%;
+    left: 3%;
     position: absolute;
 }
 .flower9{
     height: 22%;
     width: 30%;
-    top: 116em;
-    left: 58em;
+    top: 260%;
+    left: 67%;
     position: absolute;
 }
 .flower10{
@@ -334,71 +338,134 @@ body{
     left: 2%;
     position: absolute;
 }
-/*not corrected*/
-.flower1{
-    height: 20%;
-    width: 30%;
-    top: 830px;
-    left: 1190px;
+/*Projects*/
+.Projectstitle{
+    top: 293%;
+    left: 44%;
     position: absolute;
+    font-size:50px;
 }
-.flower6{
-    height: 20%;
-    width: 30%;
-    top: 1280px;
-    left: 1180px;
+.titlecard{
+    height: 15%;
+    width: 23%;
+    background-color: white;
+    top: 295%;
+    left: 38%;
     position: absolute;
+    border-radius: 31%;
 }
-
-.bar{
-    top: 400px;
-    left: 200px;
+.Projectsa{
+    height: 80%;
+    width: 40%;
+    background-color: #9E606F;
+    top: 323%;
+    left: 7%;
     position: absolute;
-}
-
-
-.flower11{
-    height: 20%;
-    width: 30%;
-    top: 2180px;
-    left: 1180px;
-    position: absolute;
+    border-radius: 10%;
 }
 .flower12{
     height: 20%;
     width: 30%;
-    top: 2180px;
-    left: -200px;
-    position: absolute;
-}
-.flower13{
-    height: 20%;
-    width: 30%;
-    top: 2700px;
-    left: -200px;
+    top: 321%;
+    left: -8%;
     position: absolute;
 }
 .flower14{
     height: 20%;
     width: 30%;
-    top: 2700px;
-    left: 1180px;
+    top: 390%;
+    left: 32%;
     position: absolute;
 }
 .monopoly{
+    height: 75%;
+    width: 36%;
+    top: 328%;
+    left: 9%;
+    border-radius: 10%;
+    position: absolute;
+}
+.Projectsb{
     height: 80%;
-    width: 49%;
-    top: 2215px;
-    left: -2px;
+    width: 40%;
+    background-color: #9E606F;
+    top: 323%;
+    left: 53%;
+    position: absolute;
+    border-radius: 10%;
+}
+.flower11{
+    height: 20%;
+    width: 30%;
+    top: 321%;
+    left: 77%;
+    position: absolute;
+}
+.flower13{
+    height: 20%;
+    width: 30%;
+    top: 390%;
+    left: 38%;
     position: absolute;
 }
 .cookbook{
+    height: 75%;
+    width: 36%;
+    top: 328%;
+    left: 55%;
+    position: absolute;
+    border-radius: 10%;
+}
+.Projectsc{
     height: 80%;
-    width: 49%;
-    top: 2216px;
-    left: 720px;
+    width: 40%;
+    background-color: #9E606F;
+    top: 411%;
+    left: 7%;
+    position: absolute;
+    border-radius: 10%;
+}
+.flower19{
+    height: 20%;
+    width: 30%;
+    top: 408%;
+    left: 32%;
     position: absolute;
 }
+.flower21{
+    height: 20%;
+    width: 30%;
+    top: 478%;
+    left: -8%;
+    position: absolute;
+}
+
+.Projectsd{
+    height: 80%;
+    width: 40%;
+    background-color: #9E606F;
+    top: 411%;
+    left: 52%;
+    position: absolute;
+    border-radius: 10%;
+}
+.flower20{
+    height: 20%;
+    width: 30%;
+    top: 408%;
+    left: 37%;
+    position: absolute;
+}
+.flower22{
+    height: 20%;
+    width: 30%;
+    top: 478%;
+    left: 77%;
+    position: absolute;
+}
+
+
+/*not corrected*/
 /*Contacts*/
 .Contactsb{
     height: 35%;
