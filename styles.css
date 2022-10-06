@@ -69,6 +69,10 @@ body{
     position: absolute;
 }
 /*border*/
+.stick{
+    position: sticky;
+    z-index: 200;
+}
 .border1{
     height: 30%;
     width: 30%;
@@ -261,12 +265,12 @@ body{
 .django{
     height: 30%;
     width: 15%;
-    top: 239%;
+    top: 241%;
     left: 20%;
     position: absolute;
 }
 .djangoF{
-    top: 256%;
+    top: 261%;
     left: 24%;
     position: absolute;
     font-size: xx-large;
@@ -274,12 +278,12 @@ body{
 .spring{
     height: 22%;
     width: 25%;
-    top: 243%;
+    top: 246%;
     left: 29%;
     position: absolute;
 }
 .springF{
-    top: 256%;
+    top: 261%;
     left: 38.4%;
     position: absolute;
     font-size: xx-large;
@@ -287,12 +291,12 @@ body{
 .java{
     height: 23%;
     width: 20%;
-    top: 240%;
+    top: 245%;
     left: 48%;
     position: absolute;
 }
 .javaF{
-    top: 256%;
+    top: 261%;
     left: 56%;
     position: absolute;
     font-size: xx-large;
@@ -300,12 +304,12 @@ body{
 .sql{
     height: 18%;
     width: 20%;
-    top: 246%;
+    top: 250%;
     left: 64%;
     position: absolute;
 }
 .sqlF{
-    top: 256%;
+    top: 261%;
     left: 70.3%;
     position: absolute;
     font-size: xx-large;
@@ -339,6 +343,15 @@ body{
     position: absolute;
 }
 /*Projects*/
+.boop{
+    height: 15%;
+    width: 23%;
+    background-color: #9E606F;
+    top: 295%;
+    left: 38%;
+    position: absolute;
+    border-radius: 31%;
+}
 .Projectstitle{
     top: 293%;
     left: 44%;
@@ -346,11 +359,11 @@ body{
     font-size:50px;
 }
 .titlecard{
-    height: 15%;
-    width: 23%;
+    height: 13%;
+    width: 21%;
     background-color: white;
-    top: 295%;
-    left: 38%;
+    top: 296%;
+    left: 39%;
     position: absolute;
     border-radius: 31%;
 }
@@ -463,55 +476,117 @@ body{
     left: 77%;
     position: absolute;
 }
-
-
-/*not corrected*/
-/*Contacts*/
-.Contactsb{
-    height: 35%;
-    width: 40%;
-    top: 75px;
-    left: -40px;
+/*Contacts for when new projects go brr just del ones on top and del the 1s*/
+.Contacts1{
+    height: 40%;
+    width: 64%;
+    background-color: aliceblue;
+    top: 513%;
+    left: 17%;
+    position: absolute;
+    border-radius: 25%;
+}
+.ContactsT1{
+    top: 512%;
+    left: 44%;
+    position: absolute;
+    font-size: xx-large;
+}
+.ContactsL1{
+    top: 514%;
+    left: 42.5%;
+    position: absolute;
+    font-size: xx-large;
+}
+.Mail1{
+    top: 523%;
+    left: 39%;
+    position: absolute;
+    height: 25%;
+    width: 20%;
+}
+.Linkdin1{
+    top: 522%;
+    left: 20%;
+    position: absolute;
+    height: 26%;
+    width: 21%;
+}
+.Github1{
+    top: 522%;
+    left: 58%;
+    position: absolute;
+    height: 25%;
+    width: 20%;
+}
+.flower151{
+    height: 20%;
+    width: 30%;
+    top: 511%;
+    left: 65%;
     position: absolute;
 }
+.flower161{
+    height: 20%;
+    width: 30%;
+    top: 511%;
+    left: 2%;
+    position: absolute;
+}
+.flower171{
+    height: 20%;
+    width: 30%;
+    top: 537%;
+    left: 66%;
+    position: absolute;
+}
+.flower181{
+    height: 20%;
+    width: 30%;
+    top: 537%;
+    left: 2%;
+    position: absolute;
+}
+
+/*Contacts for when new projects go brr /*contacts for now*/
 .Contacts{
     height: 40%;
-    width: 100%;
+    width: 64%;
     background-color: aliceblue;
-    top: 3000px;
-    left:1px;
+    top: 420%;
+    left: 17%;
     position: absolute;
+    border-radius: 25%;
 }
 .ContactsT{
-    top: 2985px;
-    left: 623px;
+    top: 419%;
+    left: 44%;
     position: absolute;
     font-size: xx-large;
 }
 .ContactsL{
-    top: 3000px;
-    left: 596px;
+    top: 421%;
+    left: 42.5%;
     position: absolute;
     font-size: xx-large;
 }
 .Mail{
-    top: 3070px;
-    left: 546px;
+    top: 429%;
+    left: 39%;
     position: absolute;
     height: 25%;
     width: 20%;
-    
 }
 .Linkdin{
-    top: 3068px;
-    left: 200px;
+    top: 428%;
+    left: 20%;
     position: absolute;
     height: 26%;
     width: 21%;
 }
 .Github{
-    top: 3070px;
-    left: 910px;
+    top: 428%;
+    left: 58%;
     position: absolute;
     height: 25%;
     width: 20%;
@@ -519,37 +594,28 @@ body{
 .flower15{
     height: 20%;
     width: 30%;
-    top: 2980px;
-    left: 1180px;
+    top: 419%;
+    left: 65%;
     position: absolute;
 }
 .flower16{
     height: 20%;
     width: 30%;
-    top: 2980px;
-    left: -200px;
+    top: 419%;
+    left: 2%;
     position: absolute;
 }
 .flower17{
     height: 20%;
     width: 30%;
-    top: 3200px;
-    left: 1180px;
+    top: 445%;
+    left: 66%;
     position: absolute;
 }
 .flower18{
     height: 20%;
     width: 30%;
-    top: 3200px;
-    left: -200px;
-    position: absolute;
-}
-
-/*?*/
-.test{
-    height: 35%;
-    width: 40%;
-    top: -59px;
-    left: -175px;
+    top: 445%;
+    left: 2%;
     position: absolute;
 }
