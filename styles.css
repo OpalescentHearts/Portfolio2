@@ -619,3 +619,62 @@ body{
     left: 2%;
     position: absolute;
 }
+
+/*seans computer*/
+@media only screen and (max-width: 1024px) {
+    .Name1{
+        top: -17%;
+        left: 1%;
+        position: absolute;
+        font-size: 11rem;
+    }
+    .Name2{
+        top: 14%;
+        left: 1%;
+        position: absolute;
+        font-size: 9rem;
+    }
+    .Name3{
+        top: 59%;
+        left: 2%;
+        position: absolute;
+        font-size: 3rem;
+    }
+    .AboutF{
+        top: 136%;
+        left: 26%;
+        position: absolute;
+        font-size:1.4rem;
+    }
+    .Abouttitle{
+        top: 121%;
+        left: 39%;
+        position: absolute;
+        font-size:50px;
+    }
+    .Skillstitle{
+        top: 198%;
+        left: 45%;
+        position: absolute;
+        font-size:50px;
+    }
+   
+    .Projectstitle{
+        top: 292%;
+        left: 42%;
+        position: absolute;
+        font-size:50px;
+    }
+    .ContactsT{
+        top: 418%;
+        left: 42%;
+        position: absolute;
+        font-size: xx-large;
+    }
+    .ContactsL{
+        top: 421%;
+        left: 40%;
+        position: absolute;
+        font-size: xx-large;
+    }
+  }
