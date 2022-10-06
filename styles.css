@@ -48,9 +48,8 @@ body{
 .Picture2{
     height: 66%;
     width: 27.4%;
-    background-color: white;
-    top: 16%;
-    left: 65%;
+    top: 18%;
+    left: 65.3%;
     position: absolute;
     border-radius: 25%;
 }
@@ -69,10 +68,11 @@ body{
     position: absolute;
 }
 /*border*/
-.stick{
-    position: sticky;
-    z-index: 200;
-}
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
 .border1{
     height: 30%;
     width: 30%;
