@@ -18,20 +18,20 @@ body{
 }
 /*Heading*/
 .Name1{
-    top: -0.4em;
-    left: 0.1em;
+    top: -12%;
+    left: 1%;
     position: absolute;
     font-size: 12em;
 }
 .Name2{
-    top: 0.6em;
-    left: 0.1em;
+    top: 12%;
+    left: 1%;
     position: absolute;
     font-size: 10em;
 }
 .Name3{
-    top: 5.6em;
-    left: 0.4em;
+    top: 50%;
+    left: 2%;
     position: absolute;
     font-size: 4em;
 }
@@ -40,8 +40,8 @@ body{
     height: 70%;
     width: 32%;
     background-color:#9E606F;
-    top: 6em;
-    left: 55em;
+    top: 14%;
+    left: 63%;
     position: absolute;
     border-radius: 25%;
 }
@@ -49,8 +49,8 @@ body{
     height: 66%;
     width: 27.4%;
     background-color: white;
-    top: 7em;
-    left: 57em;
+    top: 16%;
+    left: 65%;
     position: absolute;
     border-radius: 25%;
 }
@@ -72,85 +72,85 @@ body{
 .border1{
     height: 30%;
     width: 30%;
-    top: 37em;
-    left:-6em;
+    top: 84%;
+    left: -7%;
     position: absolute;
 }
 .border2{
     height: 30%;
     width: 30%;
-    top: 37em;
-    left:8em;
+    top: 84%;
+    left: 10%;
     position: absolute;
 }
 .border3{
     height: 30%;
     width: 30%;
-    top: 37em;
-    left:23em;
+    top: 84%;
+    left: 26%;
     position: absolute;
 }
 .border4{
     height: 30%;
     width: 30%;
-    top: 37em;
-    left:38em;
+    top: 84%;
+    left: 43%;
     position: absolute;
 }
 .border5{
     height: 30%;
     width: 30%;
-    top: 37em;
-    left:52em;
+    top: 84%;
+    left: 60%;
     position: absolute;
 }
 .border6{
     height: 30%;
     width: 30%;
-    top: 37em;
-    left:67em;
+    top: 84%;
+    left: 77%;
     position: absolute;
 }
 .flowernav1{
     height: 30%;
     width: 30%;
-    top: -5.5em;
-    left:-6em;
+    top: -12%;
+    left:-7%;
     position: absolute;
 }
 .flowernav2{
     height: 30%;
     width: 30%;
-    top: -5.5em;
-    left:8em;
+    top: -12%;
+    left: 10%;
     position: absolute;
 }
 .flowernav3{
     height: 30%;
     width: 30%;
-    top: -5.5em;
-    left:23em;
+    top: -12%;
+    left: 27%;
     position: absolute;
 }
 .flowernav4{
     height: 30%;
     width: 30%;
-    top: -5.5em;
-    left:38em;
+    top: -12%;
+    left: 44%;
     position: absolute;
 }
 .flowernav5{
     height: 30%;
     width: 30%;
-    top: -5.5em;
-    left:52em;
+    top: -12%;
+    left: 61%;
     position: absolute;
 }
 .flowernav6{
     height: 30%;
     width: 30%;
-    top: -5.5em;
-    left:67em;
+    top: -12%;
+    left: 77%;
     position: absolute;
 }
 /*About me*/
@@ -296,6 +296,44 @@ body{
     position: absolute;
     font-size: xx-large;
 }
+/*Projects*/
+.Projects{
+    height: 80%;
+    width: 100%;
+    background-color: white;
+    top: 2200px;
+    left:0px;
+    position: absolute;
+}
+
+.flower7{
+    height: 22%;
+    width: 30%;
+    top: 88em;
+    left: 58em;
+    position: absolute;
+}
+.flower8{
+    height: 22%;
+    width: 30%;
+    top: 88em;
+    left: 2em;
+    position: absolute;
+}
+.flower9{
+    height: 22%;
+    width: 30%;
+    top: 116em;
+    left: 58em;
+    position: absolute;
+}
+.flower10{
+    height: 22%;
+    width: 30%;
+    top: 262%;
+    left: 2%;
+    position: absolute;
+}
 /*not corrected*/
 .flower1{
     height: 20%;
@@ -317,45 +355,8 @@ body{
     left: 200px;
     position: absolute;
 }
-.flower7{
-    height: 20%;
-    width: 30%;
-    top: 1480px;
-    left: 1180px;
-    position: absolute;
-}
-.flower8{
-    height: 20%;
-    width: 30%;
-    top: 1480px;
-    left: -200px;
-    position: absolute;
-}
-.flower9{
-    height: 20%;
-    width: 30%;
-    top: 1860px;
-    left: 1180px;
-    position: absolute;
-}
-.flower10{
-    height: 20%;
-    width: 30%;
-    top: 1860px;
-    left: -200px;
-    position: absolute;
-}
 
 
-/*Projects*/
-.Projects{
-    height: 80%;
-    width: 100%;
-    background-color: aliceblue;
-    top: 2200px;
-    left:0px;
-    position: absolute;
-}
 .flower11{
     height: 20%;
     width: 30%;
