@@ -620,8 +620,8 @@ body{
     position: absolute;
 }
 
-/*seans computer*/
-@media only screen and (max-width: 1920px) {
+/* seans computer
+@media only screen and (max-width: 1024px) {
     .Name1{
         top: -12%;
         left: 1%;
@@ -708,4 +708,4 @@ body{
         left: 49%;
         position: absolute;
     }
-  }
+  } */
